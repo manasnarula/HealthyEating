@@ -64,4 +64,8 @@ An engaging image showing Alex in her home office, which doubles as a workout sp
 
 ![](post1.png)
 
-It's AI, so obviously it won't be perfect, and perhaps it cannot appeal to human emotion nearly as well as another human, and especially a marketing focused person. Still, I think it does a pretty good job using the gain framework to produce a post which exemplifies how healthy eating could help with the "afternoon slump."
+It's AI, so obviously it won't be perfect, and perhaps it cannot appeal to human emotion nearly as well as another human, and especially a marketing focused person. Still, I think it does a pretty good job using the gain framework to produce a post which exemplifies how healthy eating could help with the "afternoon slump." I think it does a better job with the Loss framework which is next.
+
+## Loss framework IG Post:
+
+
