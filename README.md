@@ -31,3 +31,31 @@ Create an image depicting Alex’s new and improved daily routine. She’s in he
 Panel 5: The Rewarding Outcome Refined Description for DALL-E:
 
 Create an image that shows Alex enjoying the rewards of her healthier lifestyle outside of her work environment. Picture her in a serene outdoor setting, such as a garden or a park, taking a leisurely break or engaging in a physical activity she enjoys, like yoga or jogging. She looks radiant and full of energy, a stark contrast to the first panel. The setting is vibrant, with lush greenery and a clear blue sky, symbolizing her reconnection with nature and personal well-being. This scene is not just a celebration of her physical transformation but also her mental and emotional rejuvenation. Alex is not alone; she’s either with friends or a pet, indicating an improvement in her social life and emotional connections.
+
+Next, I wanted to generate a social media post that utlizes the Gain/Loss framework. I wanted this to essentially simulate what a two-picture Instagram post might be like.
+## First results with minimal intervention by myself: 
+Gain Framed Post:
+Visual:
+
+An uplifting image of Alex enjoying her new lifestyle—doing yoga in her bright, clean room with her work station neatly organized in the background, symbolizing balance and well-being.
+
+Text:
+
+"Transform Your Life Today! 🌟 Embrace a healthier lifestyle like Alex and discover a world of benefits. Increased energy, better focus, and a happier you await. It's not just about living longer; it's about living better. #HealthTransformation #LiveWell #NewBeginnings"
+
+Loss Framed Post:
+Visual:
+
+A contrasting image of Alex looking overwhelmed and tired in her cluttered, dark workspace, surrounded by unhealthy snacks, symbolizing the negative impact of neglecting health.
+
+Text:
+
+"Don't Let Your Habits Control You. 😔 Ignoring your health can lead to decreased energy, lower productivity, and a diminished quality of life. It's time to break the cycle and take the first step towards a better you. #TakeControl #HealthyChange #ActNow"
+
+I wanted it to be more direct and specific, rather than kind of just suggesting that healthy eating leads to better lifestyle. Within my next prompt, I again said, "Make a real reason that viewers can resonate with."
+
+## Updated Results
+Revised Gain Framed Post:
+Visual:
+
+An engaging image showing Alex in her home office, which doubles as a workout space. She's visibly energized, standing at her desk, working efficiently, with healthy snacks and a water bottle within reach. The background includes a yoga mat and some fitness equipment, indicating her active lifestyle. This scene illustrates the direct link between healthy eating, increased energy levels, and productivity.
