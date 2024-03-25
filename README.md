@@ -68,4 +68,6 @@ It's AI, so obviously it won't be perfect, and perhaps it cannot appeal to human
 
 ## Loss framework IG Post:
 
+![](post2.png)
 
+I think this is pretty good overall. It both explains in the caption the actual "Loss" that could take place, and also exemplifies what this could look like in the photo (showing an environment that most humans ideally would like to avoid. I think that, in this case, it is a lot easier for the AI to associate bad aspects and the "loss" portion, because there are direct links to unhealthy eating with bad/unhealthy lifestyles. It's easier to show that "this could happen if you eat unhealthy." When focusing on the gain framework, I think it's more difficult for the AI to associate a really solid connection besides the general "If you eat well, you'll be healhty and active." It would be interesting to see how this varies across different topics.
