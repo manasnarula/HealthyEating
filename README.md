@@ -8,3 +8,4 @@ I started over and explicitly directed it to achieve what it previously hadn’t
 
 Overall, while the message does get across, it does so in a manner distinct from human storytelling, both in terms of consistency and the ability to resonate with the audience.
 
+![](comic.png)
