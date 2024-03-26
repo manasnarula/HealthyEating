@@ -9,9 +9,6 @@ I started over and explicitly directed it to achieve what it previously hadn’t
 Overall, while the message does get across, it does so in a manner distinct from human storytelling, both in terms of consistency and the ability to resonate with the audience.
 
 ![](comic.png)
-<<<<<<< HEAD
-![](post1.png)
-=======
 
 Chat’s descriptors were:
 
@@ -62,4 +59,3 @@ Revised Gain Framed Post:
 Visual:
 
 An engaging image showing Alex in her home office, which doubles as a workout space. She's visibly energized, standing at her desk, working efficiently, with healthy snacks and a water bottle within reach. The background includes a yoga mat and some fitness equipment, indicating her active lifestyle. This scene illustrates the direct link between healthy eating, increased energy levels, and productivity.
->>>>>>> c4659f024da0696fdafb1aef2bad7ed03c917cec
