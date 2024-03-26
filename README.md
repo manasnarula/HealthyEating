@@ -37,6 +37,9 @@ Next, I wanted to generate a social media post that utlizes the Gain/Loss framew
 Gain Framed Post:
 Visual:
 
+![](post1.png)
+
+
 An uplifting image of Alex enjoying her new lifestyle—doing yoga in her bright, clean room with her work station neatly organized in the background, symbolizing balance and well-being.
 
 Text:
@@ -57,5 +60,7 @@ I wanted it to be more direct and specific, rather than kind of just suggesting 
 ## Updated Results
 Revised Gain Framed Post:
 Visual:
+
+![](post2.png)
 
 An engaging image showing Alex in her home office, which doubles as a workout space. She's visibly energized, standing at her desk, working efficiently, with healthy snacks and a water bottle within reach. The background includes a yoga mat and some fitness equipment, indicating her active lifestyle. This scene illustrates the direct link between healthy eating, increased energy levels, and productivity.
